@@ -21,15 +21,19 @@ let functionalAreas = [
 
 var challenges = ["Start creating a game"]
 
-var nfChallenges = [
+var rhChallenges = [
     "Climb Manitou Heights",
     "Go without prepared foods for a day",
     "Do a bunch of squats",
     "Track food intake for a day",
-    "Drink 64 oz of water a day"
+    "Drink 64 oz of water a day",
+    "Take a cold shower",
+    "Liquid Calorie Liquidation",
+    "Jim's Interval Program",
+    "Replace one unhealthy item"
 ]
 
-challenges += nfChallenges
+challenges += rhChallenges
 
 for item in challenges {
     print(item)
